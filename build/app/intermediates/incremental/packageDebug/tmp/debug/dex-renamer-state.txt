@@ -1,0 +1,4 @@
+#Sat Aug 01 08:30:36 IST 2020
+base.0=/home/dankji/AndroidStudioProjects/flutter-googlemaps/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
